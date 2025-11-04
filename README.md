@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Моё Портфолио</title>
-    <style>
-        body { font-family: Arial; text-align: center; padding: 50px; }
-        h1 { color: #333; }
-        a { color: #0077cc; }
-    </style>
+
+  Моё Портфолио
 </head>
 <body>
     <h1>Привет, я Meffi1</h1>
